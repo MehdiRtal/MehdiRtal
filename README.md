@@ -1,1 +1,1 @@
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mehdirtal&theme=github_dark&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
