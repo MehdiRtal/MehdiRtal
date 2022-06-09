@@ -3,7 +3,6 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 
-
 class AboutMe:
 
     def __init__(self):
@@ -13,7 +12,6 @@ class AboutMe:
 
     def say_hi(self):
         print("Thanks for dropping by, hope you find some of my work interesting.")
-
 
 me = AboutMe()
 me.say_hi()
