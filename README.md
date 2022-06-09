@@ -1,18 +1,15 @@
 **👋 About Me**
 ```python
-class About:
-
-    def __init__(self):
-        self.name = "Mehdi Rtal"
-        self.age = 18
-        self.role = "Software Engineer"
-        self.language_spoken = ["en_US"]
-
-    def say_hi(self):
-        print("Thanks for dropping by, hope you find some of my work interesting.")
-
-me = About()
-me.say_hi()
+class Person:
+  def __init__(self, _name, _age):
+    self.name = _name
+    self.age = _age
+   
+  def sayHi(self):
+    print('Hello, my name is ' + self.name + ' and I am ' + self.age + ' years old!')
+    
+me = Person('Mehdi', 18)
+me.sayHi()
 ```
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
