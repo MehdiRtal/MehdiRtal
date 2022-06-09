@@ -12,7 +12,7 @@ me = Person('Mehdi', 18)
 me.sayHi()
 ```
 
-##Github Stats
+## Github Stats
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
 
