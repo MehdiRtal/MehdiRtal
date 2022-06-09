@@ -17,3 +17,5 @@ class AboutMe:
 me = SoftwareEngineer()
 me.say_hi()
 ```
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
