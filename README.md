@@ -1,4 +1,4 @@
-# About Me
+## About Me
 ```python
 class Person:
   def __init__(self, name, age):
@@ -12,7 +12,7 @@ me = Person('Mehdi', 18)
 me.sayHi()
 ```
 
-# Github Stats
+## Github Stats
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
 
