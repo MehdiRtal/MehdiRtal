@@ -1,6 +1,6 @@
 **👋 About Me**
 ```python
-class AboutMe:
+class About:
 
     def __init__(self):
         self.name = "Mehdi Rtal"
@@ -11,7 +11,7 @@ class AboutMe:
     def say_hi(self):
         print("Thanks for dropping by, hope you find some of my work interesting.")
 
-me = AboutMe()
+me = About()
 me.say_hi()
 ```
 <!--START_SECTION:waka-->
