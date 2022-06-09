@@ -1,12 +1,10 @@
 **👋 About Me**
 ```python
-#!/usr/bin/python
-# -*- coding: utf-8 -*-
-
 class AboutMe:
 
     def __init__(self):
         self.name = "Mehdi Rtal"
+        self.age = 18
         self.role = "Software Engineer"
         self.language_spoken = ["en_US"]
 
