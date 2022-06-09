@@ -15,7 +15,7 @@ class AboutMe:
         print("Thanks for dropping by, hope you find some of my work interesting.")
 
 
-me = SoftwareEngineer()
+me = AboutMe()
 me.say_hi()
 ```
 <!--START_SECTION:waka-->
