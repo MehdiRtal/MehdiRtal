@@ -16,7 +16,7 @@ me = Person('Mehdi', 18, 'Web Developer')
 me.About()
 ```
 
-## Skills
+## My Skills
 
 **Programming Languages**
 
@@ -42,7 +42,7 @@ me.About()
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white)
 
-## Stats
+## My Stats
 
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
