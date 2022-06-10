@@ -4,16 +4,16 @@
 
 ```python
 class Person:
-  def __init__(self, name, age):
+  def __init__(self, name, age, role):
     self.name = name
     self.age = age
     self.role = role
    
-  def sayHi(self):
-    print('Hello, my name is ' + self.name + ' , I am ' + self.age + ' years old and I work as a ' + self.role)
+  def About(self):
+    print('I'm ' + self.name + ' , a ' + self.age + ' years old ' + self.role)
     
 me = Person('Mehdi', 18, 'Web Developer')
-me.sayHi()
+me.About()
 ```
 
 ## Skills
