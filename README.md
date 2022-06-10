@@ -1,5 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Mehdi+Rtal)](https://git.io/typing-svg)
-
 ## About Me
 
 ```python
