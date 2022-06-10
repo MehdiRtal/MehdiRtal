@@ -10,7 +10,7 @@ class Person:
     self.role = role
    
   def About(self):
-    print('I'm ' + self.name + ' , a ' + self.age + ' years old ' + self.role)
+    print('I am ' + self.name + ' , a ' + self.age + ' years old ' + self.role)
     
 me = Person('Mehdi', 18, 'Web Developer')
 me.About()
