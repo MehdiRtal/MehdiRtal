@@ -5,11 +5,12 @@ class Person:
   def __init__(self, name, age):
     self.name = name
     self.age = age
+    self.role = role
    
   def sayHi(self):
-    print('Hello, my name is ' + self.name + ' and I am ' + self.age + ' years old!')
+    print('Hello, my name is ' + self.name + ' , I am ' + self.age + ' years old and I work as a ' + self.role)
     
-me = Person('Mehdi', 18)
+me = Person('Mehdi', 18, 'Web Developer')
 me.sayHi()
 ```
 
