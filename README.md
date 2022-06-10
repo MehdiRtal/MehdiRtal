@@ -1,3 +1,4 @@
+https://rishavanand.github.io/static/images/greetings.gif
 ## About Me
 
 ```python
