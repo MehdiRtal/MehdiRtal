@@ -1,4 +1,5 @@
-https://rishavanand.github.io/static/images/greetings.gif
+![Greetings](https://rishavanand.github.io/static/images/greetings.gif)
+
 ## About Me
 
 ```python
