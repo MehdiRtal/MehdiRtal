@@ -11,6 +11,8 @@ class Person:
 me = Person('Mehdi', 18)
 me.sayHi()
 ```
+## Skills
+### Programming Languages
 
 ## Stats
 <!--START_SECTION:waka-->
