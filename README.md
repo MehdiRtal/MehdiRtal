@@ -48,7 +48,7 @@ me.About()
 
 > 🏆 242 Contributions in the Year 2022
  > 
-> 📦 439 Bytes Used in GitHub's Storage 
+> 📦 345 Bytes Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -117,7 +117,7 @@ C                        1 repo              ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 
 
- Last Updated on 15/06/2022 04:33:54 UTC
+ Last Updated on 15/06/2022 05:20:22 UTC
 <!--END_SECTION:waka-->
 
 ## Connect With Me
