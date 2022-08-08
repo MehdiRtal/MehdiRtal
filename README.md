@@ -24,15 +24,12 @@ me.About()
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=yellow)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=yellow)
 
-
 **Fameworks & Libraries**
 
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white)
-![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=flat&logo=Qt&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat&logo=SASS&logoColor=white)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django)
+[FastAPI](https://img.shields.io/badge/fastapi-35495E?style=flat&logo=fastapi)
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vuedotjs)
-
+![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=flat&logo=Qt&logoColor=white)
 
 **Databases**
 
