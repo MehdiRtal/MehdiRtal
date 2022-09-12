@@ -39,7 +39,7 @@ me.About()
 ## My Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-239%20hrs%208%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-236%20hrs%204%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -47,7 +47,7 @@ me.About()
 
 > 🏆 763 Contributions in the Year 2022
  > 
-> 📦 2.6 kB Used in GitHub's Storage 
+> 📦 2.5 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -109,7 +109,7 @@ Vue                      1 repo              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 
 
- Last Updated on 12/09/2022 22:19:12 UTC
+ Last Updated on 12/09/2022 23:22:10 UTC
 <!--END_SECTION:waka-->
 
 ## Connect With Me
