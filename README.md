@@ -1,4 +1,4 @@
-[Typing SVG](https://readme-typing-svg.herokuapp.com?size=50&center=true&vCenter=true&width=1182&height=100&lines=%3C%F0%9F%91%8B+Hello%2C+World!+%2F%3E;%3C%F0%9F%91%8B+Bonjour%2C+World+%2F%3E;%3C%F0%9F%91%8B+Ciao%2C+World+%2F%3E;%3C%F0%9F%91%8B+Hola%2C+World+%2F%3E;%3C%F0%9F%91%8B+Namaste%2C+World+%2F%3E;%3C%F0%9F%91%8B+N%C4%AD+H%C4%83o%2C+World+%2F%3E)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?size=50&center=true&vCenter=true&width=1182&height=100&lines=%3C%F0%9F%91%8B+Hello%2C+World!+%2F%3E;%3C%F0%9F%91%8B+Bonjour%2C+World+%2F%3E;%3C%F0%9F%91%8B+Ciao%2C+World+%2F%3E;%3C%F0%9F%91%8B+Hola%2C+World+%2F%3E;%3C%F0%9F%91%8B+Namaste%2C+World+%2F%3E;%3C%F0%9F%91%8B+N%C4%AD+H%C4%83o%2C+World+%2F%3E)
 
 ## About Me
 
