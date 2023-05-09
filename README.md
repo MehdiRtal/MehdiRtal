@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=50&center=true&vCenter=true&width=1182&height=100&lines=%3C%F0%9F%91%8B+Hello%2C+World!+%2F%3E;%3C%F0%9F%91%8B+Bonjour%2C+World+%2F%3E;%3C%F0%9F%91%8B+Ciao%2C+World+%2F%3E;%3C%F0%9F%91%8B+Hola%2C+World+%2F%3E;%3C%F0%9F%91%8B+Namaste%2C+World+%2F%3E;%3C%F0%9F%91%8B+N%C4%AD+H%C4%83o%2C+World+%2F%3E)](https://git.io/typing-svg)
+[[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=50&center=true&vCenter=true&width=1182&height=100&lines=%3C%F0%9F%91%8B+Hello%2C+World!+%2F%3E;%3C%F0%9F%91%8B+Bonjour%2C+World+%2F%3E;%3C%F0%9F%91%8B+Ciao%2C+World+%2F%3E;%3C%F0%9F%91%8B+Hola%2C+World+%2F%3E;%3C%F0%9F%91%8B+Namaste%2C+World+%2F%3E;%3C%F0%9F%91%8B+N%C4%AD+H%C4%83o%2C+World+%2F%3E)](https://git.io/typing-svg)
 
 ## About Me
 
@@ -111,3 +111,4 @@ JavaScript               2 repos             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/MehdiRtal)
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Sackuro)
 [![Buy me a coffe](https://img.shields.io/badge/-buy_me_a%C2%A0coffee-gray?logo=buy-me-a-coffee)](https://www.buymeacoffee.com/mehdirtal)
+](https://github.com/MehdiRtal/MehdiRtal/edit/main/README.md)
