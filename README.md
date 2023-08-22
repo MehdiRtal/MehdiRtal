@@ -12,7 +12,7 @@ class Person:
   def About(self):
     print('I am ' + self.name + ', a ' + self.age + ' years old ' + self.role)
 
-me = Person('Mehdi', 19, 'Back-End Developer')
+me = Person('Mehdi', 20, 'Python Developer')
 me.About()
 ```
 
