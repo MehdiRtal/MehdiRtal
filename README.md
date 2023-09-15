@@ -40,7 +40,7 @@ me.About()
 ## My Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-975%20hrs%2024%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-975%20hrs%2042%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
 
@@ -106,7 +106,7 @@ JavaScript               1 repo              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 
 
- Last Updated on 15/09/2023 00:57:43 UTC
+ Last Updated on 15/09/2023 01:51:47 UTC
 <!--END_SECTION:waka-->
 
 ## Connect With Me
