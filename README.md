@@ -55,7 +55,7 @@ me.About()
 
 **🐱 My GitHub Data** 
 
-> 📦 183.6 kB Used in GitHub's Storage 
+> 📦 182.6 kB Used in GitHub's Storage 
  > 
 > 🏆 396 Contributions in the Year 2024
  > 
@@ -116,7 +116,7 @@ JavaScript               1 repo              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 
 
- Last Updated on 28/03/2024 13:15:06 UTC
+ Last Updated on 28/03/2024 14:14:50 UTC
 <!--END_SECTION:waka-->
 
 ## Connect With Me
