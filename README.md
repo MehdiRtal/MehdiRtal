@@ -57,8 +57,6 @@ me.About()
 
 > 📦 184.7 kB Used in GitHub's Storage 
  > 
-> 🏆 683 Contributions in the Year 2024
- > 
 > 💼 Opted to Hire
  > 
 > 📜 27 Public Repositories 
@@ -116,7 +114,7 @@ JavaScript               1 repo              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 
 
- Last Updated on 08/06/2024 20:14:16 UTC
+ Last Updated on 08/06/2024 21:13:18 UTC
 <!--END_SECTION:waka-->
 
 ## Connect With Me
