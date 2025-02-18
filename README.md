@@ -47,7 +47,7 @@ me.About()
 ## My Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C470%20hrs%2017%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C470%20hrs%2057%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-26-blue)
 
@@ -56,8 +56,6 @@ me.About()
 **🐱 My GitHub Data** 
 
 > 📦 187.0 kB Used in GitHub's Storage 
- > 
-> 🏆 189 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -117,7 +115,7 @@ C                        1 repo              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 
 
- Last Updated on 18/02/2025 21:17:48 UTC
+ Last Updated on 18/02/2025 22:17:31 UTC
 <!--END_SECTION:waka-->
 
 ## Connect With Me
