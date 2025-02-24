@@ -57,6 +57,8 @@ me.About()
 
 > 📦 187.1 kB Used in GitHub's Storage 
  > 
+> 🏆 249 Contributions in the Year 2025
+ > 
 > 💼 Opted to Hire
  > 
 > 📜 33 Public Repositories 
@@ -115,7 +117,7 @@ C                        1 repo              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 
 
- Last Updated on 24/02/2025 11:16:23 UTC
+ Last Updated on 24/02/2025 12:36:25 UTC
 <!--END_SECTION:waka-->
 
 ## Connect With Me
