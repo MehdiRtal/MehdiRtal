@@ -47,7 +47,7 @@ me.About()
 ## My Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C842%20hrs%2036%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C842%20hrs%2058%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -90,14 +90,13 @@ Sunday                   1686 commits        ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀�
 
 ```text
 💬 Programming Languages: 
-Python                   11 hrs 52 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
-Bash                     0 secs              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.00 % 
+Python                   11 hrs 17 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
 
 🔥 Editors: 
-VS Code                  11 hrs 52 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
+VS Code                  11 hrs 17 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
 
 💻 Operating System: 
-Windows                  11 hrs 52 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
+Windows                  11 hrs 17 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -113,7 +112,7 @@ HTML                     1 repo              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 
 
- Last Updated on 15/07/2025 23:20:07 UTC
+ Last Updated on 16/07/2025 01:45:37 UTC
 <!--END_SECTION:waka-->
 
 ## Connect With Me
