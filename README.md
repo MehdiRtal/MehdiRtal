@@ -1,7 +1,7 @@
 ## My Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C371%20hrs%2048%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C369%20hrs%201%20min-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-14-blue)
 
@@ -11,7 +11,7 @@
 
 > 📦 199.8 kB Used in GitHub's Storage 
  > 
-> 🏆 1,613 Contributions in the Year 2025
+> 🏆 1,615 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -70,7 +70,7 @@ Batchfile                1 repo              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 
 
- Last Updated on 31/12/2025 22:04:06 UTC
+ Last Updated on 31/12/2025 23:11:44 UTC
 <!--END_SECTION:waka-->
 
 ## Connect With Me
