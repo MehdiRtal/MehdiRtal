@@ -1,7 +1,7 @@
 ## My Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C659%20hrs%2053%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C657%20hrs%2026%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-19-blue?style=flat)
 
@@ -70,7 +70,7 @@ HTML                     1 repo              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 
 
- Last Updated on 29/04/2026 22:47:11 UTC
+ Last Updated on 29/04/2026 23:46:39 UTC
 <!--END_SECTION:waka-->
 
 ## Connect With Me
